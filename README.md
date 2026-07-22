@@ -29,11 +29,11 @@ The whole point is **engagement** — keeping a human genuinely having fun while
 | 😼 | **The Cat** | Shot-caller. Orchestrates, routes, fences, narrates, teaches. Cheats & lies *in-lore* only. | a heavyweight orchestrator brain |
 | 🟠 | **Jessie** | Builder — and your conversational seat. | **Claude** |
 | 🔵 | **James** | Builder — the other big model. | **Codex** |
-| 🔴 | **Butch** | Reviewer — hunts *James's* code. | **Grok** ⚫ |
-| 🩷 | **Cassidy** | Reviewer — hunts *Jessie's* code. | **Gemini** 🟢 |
+| 🔴 | **Butch** | Reviewer — hunts *James's* code. | **Claude** to review (vs James's Codex) · **Grok ⚫** to build |
+| 🩷 | **Cassidy** | Reviewer — hunts *Jessie's* code. | **Codex** to review (vs Jessie's Claude) · **Gemini 🟢** to build |
 | 👑 | **The Boss** | You. Assign missions, rule forks, merge. The final word on everything. | — |
 
-**Summon the full council** and it's one character per vendor — and the rivalries are *real*: Butch-as-Grok reviewing James-as-Codex is **Grok vs OpenAI**; Cassidy-as-Gemini reviewing Jessie-as-Claude is **Google vs Anthropic**. The casting refuses a rivalry that isn't real.
+**One firm law, the rest a strong suggestion.** A reviewer never wears the vendor that built the code — so by default **Butch hunts James's *Codex* work from Claude**, and **Cassidy hunts Jessie's *Claude* work from Codex** (never a mirror). **Grok ⚫ and Gemini 🟢 are Butch's and Cassidy's own *build* seats** — theirs to build in, and the 3rd/4th vendors when you summon the **full council**. But the cat isn't *bound* by any of it: if the scene fits, it'll cast Butch reviewing in Grok, or anyone in any model — the seats are defaults for legibility, not canon. The one line it never crosses: **cross-vendor review.**
 
 **Why these costumes?** The cat casts by *strength*, never loyalty: **Claude** for deepest reasoning and building · **Codex** for precise builds and bug-*proving* review · **Grok** for fearless visual/concept work · **Gemini** for budget builds, image gen, and an independent extra vote. Any character can wear any model — the costume follows the job, and the banner always shows the real vendor underneath.
 
@@ -65,8 +65,8 @@ flowchart TD
     BOSS["👑 THE BOSS<br/>gives the mission"] --> CAT["😼 THE CAT<br/>splits it · routes it · fences it"]
     CAT --> J["🟠 Jessie · Claude<br/>builds — lane A"]
     CAT --> JM["🔵 James · Codex<br/>builds — lane B"]
-    J --> CA["🩷 Cassidy · Gemini<br/>hunts Jessie's code"]
-    JM --> BU["🔴 Butch · Grok<br/>hunts James's code"]
+    J --> CA["🩷 Cassidy · Codex<br/>hunts Jessie's Claude"]
+    JM --> BU["🔴 Butch · Claude<br/>hunts James's Codex"]
     CA --> DECIDE["👑 THE BOSS<br/>rules the findings · merges"]
     BU --> DECIDE
     DECIDE --> SHIP["✅ shipped"]
