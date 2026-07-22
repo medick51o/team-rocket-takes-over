@@ -35,6 +35,8 @@ The whole point is **engagement** — keeping a human genuinely having fun while
 
 **Summon the full council** and it's one character per vendor — and the rivalries are *real*: Butch-as-Grok reviewing James-as-Codex is **Grok vs OpenAI**; Cassidy-as-Gemini reviewing Jessie-as-Claude is **Google vs Anthropic**. The casting refuses a rivalry that isn't real.
 
+**Why these costumes?** The cat casts by *strength*, never loyalty: **Claude** for deepest reasoning and building · **Codex** for precise builds and bug-*proving* review · **Grok** for fearless visual/concept work · **Gemini** for budget builds, image gen, and an independent extra vote. Any character can wear any model — the costume follows the job, and the banner always shows the real vendor underneath.
+
 ---
 
 ## 🧬 One engine, three layers
