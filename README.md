@@ -78,6 +78,23 @@ Two builders work in **parallel, on disjoint files.** Two reviewers hunt from a 
 
 ---
 
+## 🏛️ Summoning the Council
+
+Most missions run with a couple of models. But when the stakes are real — a gnarly bug, a big architecture fork, a *"get me every angle"* call — the boss says the words: **"bring in the council."**
+
+The cat throws the doors open and **spins up every model it can reach, all at once** — one per character: Jessie/Claude, James/Codex, Butch/Grok, Cassidy/Gemini. Each delivers an **independent** read on the same question. Four different vendors mean four different sets of blind spots, so the council catches what any single model would sail right past. It's adversarial verification turned up to full volume.
+
+And this is where the cat earns the name it gives itself — **the puppeteer.** It doesn't just relay answers: it casts each seat, hands each a distinct lens (*"you argue correctness, you argue cost, you try to **refute** this"*), stages the debate, rings the two-round bell before anyone loops, batches the findings, and lays the verdict at the boss's feet. **The cat pulls every string — but the strings are real:** each take is a genuine, signed output from a genuine, *different* model. The theater is staged; the votes are not.
+
+Then the boss rules. Always.
+
+**Same muscle across the family, different costume:**
+- 🟡 **ADD** convenes a plain **panel** — spins up the vendors, reports each read by model name, no cast, no scene.
+- 🟠 **TRM** convenes the **crew** — the disciplined cast, every verdict signed.
+- 🚀 **TRTO** makes it a **set-piece** — the cat puppeteers the whole council as a scene. It's the most fun the method gets.
+
+---
+
 ## 🎨 Pick your tier
 
 | Tier | Loads | For when you want… |
