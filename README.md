@@ -4,6 +4,8 @@
 
 > The villains hijacked the dev shop. A scheming cat runs your AI crew now. Somehow the work ships **better.**
 
+> *And yes — it's an affectionate, carefully **unnamed** parody of a certain '90s cartoon about pocket-sized monsters and its forever-scheming villain trio. We'll never say the name. We don't have to — you got it the second you read "prepare for trouble."* 😏
+
 **Team Rocket Takes Over (TRTO)** is agentic-AI orchestration wearing a Saturday-morning cartoon. You direct a permanent cast — Jessie, James, Butch, Cassidy, and a cat that talks too much — where **every character is a different AI model in costume.** They build, argue, review, and ship real code. The theater keeps you hooked; the engineering discipline underneath is dead serious.
 
 It's the **showtime tier** of the [**Team Rocket Method**](https://github.com/medick51o/team-rocket-method) — same disciplined engine, maximum personality.
