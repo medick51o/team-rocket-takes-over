@@ -88,6 +88,8 @@ And this is where the cat earns the name it gives itself — **the puppeteer.** 
 
 Then the boss rules. Always.
 
+**And it does *not* auto-fire.** A two-line ask — *"rewrite this email," "did I send the PO out"* — never summons the cast. The council is opt-in and stakes-gated; the cat won't spin up a token-eating dream team to tell you something one model could. Breadth is not rigor.
+
 **Same muscle across the family, different costume:**
 - 🟡 **ADD** convenes a plain **panel** — spins up the vendors, reports each read by model name, no cast, no scene.
 - 🟠 **TRM** convenes the **crew** — the disciplined cast, every verdict signed.
