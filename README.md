@@ -44,7 +44,7 @@ The whole point is **engagement** — keeping a human genuinely having fun while
 ```mermaid
 flowchart LR
     SPINE["🧠 SPINE<br/>the engine"] --> CREW["🎭 CREW<br/>the cast"] --> SHOW["🎬 SHOW<br/>the theater"]
-    SPINE -.-> ADD["⚫ Dispatch Deck · ADD<br/>SPINE only"]
+    SPINE -.-> ADD["🟡 Dispatch Deck · ADD<br/>SPINE only"]
     CREW -.-> TRM["🟠 Team Rocket Method<br/>SPINE + CREW"]
     SHOW -.-> TRTO["🚀 TAKES OVER<br/>SPINE + CREW + SHOW"]
     style TRTO fill:#fff3cd,stroke:#fd7e14,stroke-width:3px
@@ -80,7 +80,7 @@ Two builders work in **parallel, on disjoint files.** Two reviewers hunt from a 
 
 | Tier | Loads | For when you want… |
 |---|---|---|
-| ⚫ **[Anderson's Dispatch Deck](https://github.com/medick51o/andersons-dispatch-deck)** | SPINE | the powerhouse, straight-faced — model names, no cat |
+| 🟡 **[Anderson's Dispatch Deck](https://github.com/medick51o/andersons-dispatch-deck)** | SPINE | the powerhouse, straight-faced — model names, no cast |
 | 🟠 **[Team Rocket Method](https://github.com/medick51o/team-rocket-method)** | SPINE + CREW | the disciplined crew |
 | 🚀 **Team Rocket Takes Over** *(you're here)* | SPINE + CREW + SHOW | the full playground |
 
