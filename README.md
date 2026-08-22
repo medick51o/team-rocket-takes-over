@@ -99,8 +99,8 @@ Then the boss rules. Always.
 
 ## 🔌 The villains REMEMBER now — persistent seats (2026-08-22)
 
-The takeover got an upgrade: every vendor seat is a **persistent MCP conversation**, not an
-amnesia one-shot. James can be briefed, build, and answer follow-ups as the SAME James all
+The takeover got an upgrade: any vendor seat you actually have can become a **persistent MCP
+conversation** instead of an amnesia one-shot — opt-in per vendor, reversible with one command. James can be briefed, build, and answer follow-ups as the SAME James all
 episode. Reviewers still arrive as fresh, blind calls (that blindness is the review guarantee),
 and a continued session can never sneak back as the reviewer of its own work. Wiring + wrappers:
 [`mcp-seats/`](https://github.com/medick51o/andersons-dispatch-deck/tree/main/mcp-seats) ·
