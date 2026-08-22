@@ -101,10 +101,11 @@ Then the boss rules. Always.
 
 The takeover got an upgrade: any vendor seat you actually have can become a **persistent MCP
 conversation** instead of an amnesia one-shot — opt-in per vendor, reversible with one command. James can be briefed, build, and answer follow-ups as the SAME James all
-episode. Reviewers still arrive as fresh, blind calls (that blindness is the review guarantee),
+episode. Reviewers still arrive as fresh, blind calls — blindness is *necessary but not sufficient*, so
+the reviewer also wears a different vendor than the builder (or is boss-launched) —
 and a continued session can never sneak back as the reviewer of its own work. Wiring + wrappers:
 [`mcp-seats/`](https://github.com/medick51o/andersons-dispatch-deck/tree/main/mcp-seats) ·
-doctrine + the full crew legend: [CREW.md](CREW.md).
+laws owned by [SPINE.md](SPINE.md) v2.0, rendered for the crew in [CREW.md](CREW.md).
 
 **Legend at a glance:** *😼🟠➤* conductor's baton · 🔨 building · 📝 reviewing (🔴 stays Butch's
 jersey) · ⛔ reject/blocked · 🌈👥👥 council · 🚩 finding · 🧪 gates · 🚢 shipped · 👑🏁
