@@ -97,6 +97,19 @@ Then the boss rules. Always.
 
 ---
 
+## 🔌 The villains REMEMBER now — persistent seats (2026-08-22)
+
+The takeover got an upgrade: every vendor seat is a **persistent MCP conversation**, not an
+amnesia one-shot. James can be briefed, build, and answer follow-ups as the SAME James all
+episode. Reviewers still arrive as fresh, blind calls (that blindness is the review guarantee),
+and a continued session can never sneak back as the reviewer of its own work. Wiring + wrappers:
+[`mcp-seats/`](https://github.com/medick51o/andersons-dispatch-deck/tree/main/mcp-seats) ·
+doctrine + the full crew legend: [CREW.md](CREW.md).
+
+**Legend at a glance:** *😼🟠➤* conductor's baton · 🔨 building · 📝 reviewing (🔴 stays Butch's
+jersey) · ⛔ reject/blocked · 🌈👥👥 council · 🚩 finding · 🧪 gates · 🚢 shipped · 👑🏁
+boss-validated · 🟤 quiet hold.
+
 ## 🎨 Pick your tier
 
 | Tier | Loads | For when you want… |
