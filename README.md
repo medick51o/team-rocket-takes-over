@@ -111,6 +111,22 @@ laws owned by [SPINE.md](SPINE.md) v2.0, rendered for the crew in [CREW.md](CREW
 jersey) · ⛔ reject/blocked · 🌈👥👥 council · 🚩 finding · 🧪 gates · 🚢 shipped · 👑🏁
 boss-validated · 🟤 quiet hold.
 
+---
+
+## 🆕 What the takeover can pull off now (`spine v2.6`)
+
+The show got bigger. Same cat, same cast — a much deeper toy box underneath.
+
+| | The trick | What it looks like in an episode |
+|:--:|---|---|
+| 🔌 | **The villains remember** | James stays James across the whole episode. Brief him once; he answers follow-ups with everything still in his head. |
+| 🟣 | **A 200-model wardrobe rack** | One CLI reaches a whole roster, so the cat can dress a character in a model you don't even hold a subscription for. The costume metaphor stopped being a metaphor. |
+| 💳 | **Nobody raids the boss's wallet** | Any seat that could actually *bill* has to have your recorded permission first — a bound, with an expiry date. No permission, no spend, no exceptions. Free seats never ask. |
+| 📊 | **The cat reads the meter** | Real usage from each vendor's own billing endpoint, so *"we've got plenty left"* is a number instead of a vibe. |
+| 🛡️ | **The villains are fenced for real** | Three genuine escapes found and sealed — the best one being a "read-only" seat that got **another seat** to do its writing for it. Very in-character. Patched anyway. |
+| ⚖️ | **The rulebook was put on trial** | Four rival vendors read the entire engine blind and found **nine places two rules contradicted each other.** All nine fixed. The best catch: a loophole that let a seat skip review entirely and still claim it followed the method. |
+| 📜 | **The origin stories moved out** | Every war story behind a law now lives in its own file — still there when you want the lore, no longer re-read at the start of every episode. |
+
 ## 🎨 Pick your tier
 
 | Tier | Loads | For when you want… |
